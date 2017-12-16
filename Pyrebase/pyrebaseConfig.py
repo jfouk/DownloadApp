@@ -1,6 +1,6 @@
 import pyrebase
 config = {
-        "apiKey": "AIzaSyBcrsiPbLP5KNpRcZpvVk2DEVjmhDvmhG4",
+        "apiKey": "apikey",
         "authDomain": "tmanager-175920.firebaseapp.com",
         "databaseURL": "https://tmanager-175920.firebaseio.com",
         "storageBucket": "projectId.appspot.com",

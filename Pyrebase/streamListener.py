@@ -6,7 +6,7 @@ def stream_handler(message):
     print(message["data"])
 
 config = {
-        "apiKey": "AIzaSyBcrsiPbLP5KNpRcZpvVk2DEVjmhDvmhG4",
+        "apiKey": "apiKey",
         "authDomain": "tmanager-175920.firebaseapp.com",
         "databaseURL": "https://tmanager-175920.firebaseio.com",
         "storageBucket": "projectId.appspot.com",
